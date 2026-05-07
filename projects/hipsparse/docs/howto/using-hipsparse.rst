@@ -11,7 +11,7 @@ Using hipSPARSE
 This topic discusses how to use hipSPARSE, including a discussion of device and stream
 management, storage formats, and pointer mode.
 
-HIP device management
+HIP device management 
 =====================
 
 Before starting a HIP kernel, you can call :cpp:func:`hipSetDevice` to set a device.
